@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Mohammad Akbar</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+# 👋 Hi, I'm Mohammad!
 
-- 📫 How to reach me **akbarshahid03@gmail.com**
+🎯 I'm a passionate **Data Analyst** from **India** with a strong focus on turning data into actionable insights.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 💼 Skills
+- 📊 **Power BI** – Interactive dashboards & business reporting  
+- 📈 **Advanced Excel** – Pivot tables, Power Query, complex formulas  
+- 🗃️ **SQL** – Data querying, joins, aggregations, and performance tuning  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+## 🔍 About Me
+I enjoy exploring data, solving real-world problems, and communicating results through impactful visualizations. I'm always learning and seeking opportunities to grow in analytics and data science.
+
+## 📫 Let's Connect
+Feel free to explore my repositories and reach out
