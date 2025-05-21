@@ -11,4 +11,4 @@
 I enjoy exploring data, solving real-world problems, and communicating results through impactful visualizations. I'm always learning and seeking opportunities to grow in analytics and data science.
 
 ## 📫 Let's Connect
-Feel free to explore my repositories and reach out
+Feel free to explore my repositories and reach out akbarshahid03@gmail.com
